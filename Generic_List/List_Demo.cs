@@ -48,6 +48,7 @@ namespace Generic_List
             temperatures.Add(70.0);
             temperatures.Add(25.2);
             temperatures.Add(55.2);
+			temperatures.Add(51.5);
 
 
             
